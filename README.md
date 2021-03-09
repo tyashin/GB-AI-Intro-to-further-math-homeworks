@@ -1,1 +1,2 @@
-## GeekBrains course [Введение в высшую математику]() homeworks Python code (Jupiter Notebook files)
+## GeekBrains course "Введение в высшую математику"
+*Homeworks' Python code (Jupiter Notebook files)* 
