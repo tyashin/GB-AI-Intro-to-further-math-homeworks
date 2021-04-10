@@ -1,2 +1,5 @@
 ## GeekBrains course "Введение в высшую математику"
-*Homeworks' Python code (Jupiter Notebook files)* 
+
+### WIP
+
+_Homeworks' Python code (Jupiter Notebook files)_
