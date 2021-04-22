@@ -2,4 +2,4 @@
 
 ### WIP
 
-_Homeworks' Python code (Jupiter Notebook files)_
+_Homeworks' **Python code only** (Jupiter Notebook files)_
